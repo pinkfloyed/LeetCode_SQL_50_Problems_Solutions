@@ -19,6 +19,7 @@ Write a SQL query to:
 - Find the **largest number** that occurs **only once** in the table (i.e., a **single number**).
 - If **no such number exists**, return `null`.
 
+
 ---
 
 ## 📌 Examples
